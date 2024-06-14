@@ -3,7 +3,7 @@
 
 # In[2]:
 
-
+from IPython import get_ipython
 get_ipython().system('pip install joblib')
 
 
